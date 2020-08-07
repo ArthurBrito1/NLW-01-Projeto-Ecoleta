@@ -55,14 +55,14 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## :interrobang: Como usar
 
-Para clonar e rodar esta aplicação, é preciso ter o [Git](https://git-scm.com) e o [Node.js][nodejs] instalado em seu computador.
+Para clonar e rodar esta aplicação, é preciso ter o [Git](https://git-scm.com) e o [Node.js][https://nodejs.org/en/] instalado em seu computador.
 
 ```bash
 # Clonar esse repositório
-$ git clone https://github.com/castelogui/next-level-week
+$ git clone https://github.com/ArthurBrito1/NLW-01-Projeto-Ecoleta
 
 # Navegue até o diretório
-$ cd next-level-week
+$ cd NLW-01-Projeto-Ecoleta
 
 # Abrir no VSCode
 $ code .
