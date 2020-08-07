@@ -1,4 +1,3 @@
-
 <h1 align = "center">
     <img alt="Ecoleta" title="Ecoleta" src="https://raw.githubusercontent.com/ArthurBrito1/NLW-01-Proeto-Ecoleta/ff71f3962683bb473dbb7f63ea03843eb971d070/ecoleta.svg" width="220px" />
 </h1>
@@ -53,6 +52,38 @@ Você pode visualizar o layout do projeto no formato através [desse link](<http
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+## :interrobang: Como usar
+
+Para clonar e rodar esta aplicação, é preciso ter o [Git](https://git-scm.com) e o [Node.js][nodejs] instalado em seu computador.
+
+```bash
+# Clonar esse repositório
+$ git clone https://github.com/castelogui/next-level-week
+
+# Navegue até o diretório
+$ cd next-level-week
+
+# Abrir no VSCode
+$ code .
+```
+
+Na linha de comando **como administrador**:
+
+### Instalar o Front-end
+
+```bash
+# Navegue até o diretório
+$ cd NLW-01-Projeto-Ecoleta
+
+# Instale as dependências necessarias
+$ npm install
+
+# Rode
+$ npm start
+
+# running on port 3000
+```
 
 ## :memo: Licença
 
