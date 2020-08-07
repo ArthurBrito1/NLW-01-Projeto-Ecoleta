@@ -55,7 +55,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## :interrobang: Como usar
 
-Para clonar e rodar esta aplicação, é preciso ter o [Git](https://git-scm.com) e o [Node.js][https://nodejs.org/en/] instalado em seu computador.
+Para clonar e rodar esta aplicação, é preciso ter o [Git](https://git-scm.com) e o [Node.js](https://nodejs.org/en/) instalado em seu computador.
 
 ```bash
 # Clonar esse repositório
